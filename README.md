@@ -42,4 +42,11 @@ npm start
 
 ---
 
-You can edit/expand components in `frontend/src/components/` and multi-page support in `frontend/src/pages/` as you learn more!
+## How to Build & Run with Docker Compose
+```bash
+docker-compose up --build
+
+docker-compose up --build
+
+docker-compose down
+```
